@@ -27,7 +27,7 @@ export default function Home(props) {
   
   </LeftContainer>
 <RightContainer>
-<h3>Hello?</h3>
+<h3></h3>
 </RightContainer>
 
 </TopContainer>
